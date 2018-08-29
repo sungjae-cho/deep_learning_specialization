@@ -6,7 +6,7 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 2. [C1W2P2] Logistic regression with a neural network mindset
 3. [C1W3P1] Planar data classification with a hidden layer
 4. [C1W4P1] Building your deep neural network: Step by step
-5. [C1W4P2] Deep neural network application
+5. [C1W4P2] Deep neural network application: Image classification
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 1. [C2W1P1] Initialization
