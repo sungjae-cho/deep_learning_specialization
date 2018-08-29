@@ -8,7 +8,7 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 4. [C1W4P1] Building your deep neural network: Step by step
 5. [C1W4P2] Deep neural network application
 
-## Course 4: 
+## Course 4: Convolutional Neural Networks
 1. [C4W1P1] Convolutional models: Step by step
 2. [C4W1P2] Convolutional models: Application
 3. [C4W2P1] Residual networks
