@@ -8,6 +8,16 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 4. [C1W4P1] Building your deep neural network: Step by step
 5. [C1W4P2] Deep neural network application
 
+## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+1. [C2W1P1] Initialization
+2. [C2W1P2] Regularization
+3. [C2W1P3] Gradient checking
+4. [C2W2P1] Optimization
+5. [C2W3P1] Tensorflow
+
+## Course 3: Structuring Machine Learning Projects
+* No programming assignment.
+
 ## Course 4: Convolutional Neural Networks
 1. [C4W1P1] Convolutional models: Step by step
 2. [C4W1P2] Convolutional models: Application
@@ -15,3 +25,12 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 4. [C4W3P1] Car detection with YOLOv2
 5. [C4W4P1] Art generation with neural style transfer
 6. [C4W4P2] Face recognition for the Happy Hosue
+
+## Course 5: Sequence Models
+1. [C5W1P1] Building a recurrent neural network: Step by step
+2. [C5W1P2] Dinosaur island: Character-level language modeling
+3. [C5W1P3] Jazz improvio
+4. [C5W2P1] Operations on word vectors: Debiasing
+5. [C5W2P2] Emojify
+6. [C5W3P1] Neural machine translation with attention
+7. [C5W3P2] Trigger word detection
