@@ -21,10 +21,11 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 ## Course 4: Convolutional Neural Networks
 1. [C4W1P1] Convolutional models: Step by step
 2. [C4W1P2] Convolutional models: Application
-3. [C4W2P1] Residual networks
-4. [C4W3P1] Car detection with YOLOv2
-5. [C4W4P1] Art generation with neural style transfer
-6. [C4W4P2] Face recognition for the Happy Hosue
+3. [C4W2P1] Keras tutorial: The Happy House
+4. [C4W2P2] Residual networks
+5. [C4W3P1] Car detection with YOLOv2
+6. [C4W4P1] Art generation with neural style transfer
+7. [C4W4P2] Face recognition for the Happy Hosue
 
 ## Course 5: Sequence Models
 1. [C5W1P1] Building a recurrent neural network: Step by step
