@@ -25,7 +25,7 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 4. [C4W2P2] Residual networks (ResNet50. SIGNS dataset. Keras)
 5. [C4W3P1] Car detection with YOLOv2 (Keras. drive.ai dataset. Tensorflow) 
 6. [C4W4P1] Art generation with neural style transfer (VGG-19. Tensorflow)
-7. [C4W4P2] Face recognition for the Happy House (DeepFace. Keras. Tensorflow)
+7. [C4W4P2] Face recognition for the Happy House (FaceNet. Keras. Tensorflow)
 
 ## Course 5: Sequence Models
 1. [C5W1P1] Building a recurrent neural network: Step by step
