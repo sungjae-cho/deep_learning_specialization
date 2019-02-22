@@ -28,7 +28,7 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 7. [C4W4P2] Face recognition for the Happy House (FaceNet. Keras. Tensorflow)
 
 ## Course 5: Sequence Models
-1. [C5W1P1] Building a recurrent neural network: Step by step
+1. [C5W1P1] Building a recurrent neural network: Step by step [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P1%20-%20Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)]
 2. [C5W1P2] Dinosaur island: Character-level language modeling
 3. [C5W1P3] Jazz improvio
 4. [C5W2P1] Operations on word vectors: Debiasing
