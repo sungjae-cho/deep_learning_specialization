@@ -19,13 +19,13 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 * No programming assignment.
 
 ## Course 4: Convolutional Neural Networks
-1. [C4W1P1] Convolutional models: Step by step (NumPy implentation of ConvNet)
-2. [C4W1P2] Convolutional models: Application (Tensorflow implementation of ConvNet. SIGNS dataset)
-3. [C4W2P1] Keras tutorial: The Happy House (not graded. Face verification. Keras)
-4. [C4W2P2] Residual networks (ResNet50. SIGNS dataset. Keras)
-5. [C4W3P1] Car detection with YOLOv2 (Keras. drive.ai dataset. Tensorflow) 
-6. [C4W4P1] Art generation with neural style transfer (VGG-19. Tensorflow)
-7. [C4W4P2] Face recognition for the Happy House (FaceNet. Keras. Tensorflow)
+1. [C4W1P1] Convolutional models: Step by step (NumPy implentation of ConvNet) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W1P1%20-%20Convolutional%20model%20-%20Step%20by%20step/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)]
+2. [C4W1P2] Convolutional models: Application (Tensorflow implementation of ConvNet. SIGNS dataset) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W1P2%20-%20Convolutional%20model%20-%20Application/Convolution%20model%20-%20Application%20-%20v1.ipynb)]
+3. [C4W2P1] Keras tutorial: The Happy House (not graded. Face verification. Keras) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W2P1%20-%20Keras%20tutorial%20-%20The%20Happy%20House/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)]
+4. [C4W2P2] Residual networks (ResNet50. SIGNS dataset. Keras) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W2P2%20-%20ResNets/Residual%20Networks%20-%20v2.ipynb)]
+5. [C4W3P1] Car detection with YOLOv2 (Keras. drive.ai dataset. Tensorflow) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W3P1%20-%20Car%20detection%20for%20autonomous%20driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)]
+6. [C4W4P1] Art generation with neural style transfer (VGG-19. Tensorflow) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W4P1%20-%20Art%20generation%20with%20neural%20style%20transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)]
+7. [C4W4P2] Face recognition for the Happy House (FaceNet. Keras. Tensorflow) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/C4W4P2%20-%20Face%20recognition%20for%20the%20Happy%20House/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)]
 
 ## Course 5: Sequence Models
 1. [C5W1P1] Building a recurrent neural network: Step by step [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P1%20-%20Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)]
