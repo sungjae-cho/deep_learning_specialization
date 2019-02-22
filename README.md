@@ -9,11 +9,11 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 5. [C1W4P2] Deep neural network application: Image classification [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W4P2%20-%20Deep%20neural%20network%20application%20-%20Image%20classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)]
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-1. [C2W1P1] Initialization
-2. [C2W1P2] Regularization
-3. [C2W1P3] Gradient checking
-4. [C2W2P1] Optimization
-5. [C2W3P1] Tensorflow
+1. [C2W1P1] Initialization [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2W1P1%20-%20Initialization/Initialization.ipynb)]
+2. [C2W1P2] Regularization [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2W1P2%20-%20Regularization/Regularization.ipynb)]
+3. [C2W1P3] Gradient checking [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2W1P3%20-%20Gradient%20checking/Gradient%20Checking%20v1.ipynb)]
+4. [C2W2P1] Optimization [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2W2P1%20-%20Optimization/Optimization%20methods.ipynb)]
+5. [C2W3P1] Tensorflow [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/C2W3P1%20-%20Tensorflow/Tensorflow%20Tutorial.ipynb)]
 
 ## Course 3: Structuring Machine Learning Projects
 * No programming assignment.
