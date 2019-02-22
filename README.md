@@ -29,9 +29,9 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 
 ## Course 5: Sequence Models
 1. [C5W1P1] Building a recurrent neural network: Step by step [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P1%20-%20Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)]
-2. [C5W1P2] Dinosaur island: Character-level language modeling
-3. [C5W1P3] Jazz improvio
-4. [C5W2P1] Operations on word vectors: Debiasing
+2. [C5W1P2] Dinosaur island: Character-level language modeling [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P2%20-%20Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)]
+3. [C5W1P3] Jazz improvio [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P3%20-%20Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)]
+4. [C5W2P1] Operations on word vectors: Debiasing [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W2P1%20-%20Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)]
 5. [C5W2P2] Emojify
 6. [C5W3P1] Neural machine translation with attention
 7. [C5W3P2] Trigger word detection
