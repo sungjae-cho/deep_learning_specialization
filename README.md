@@ -2,11 +2,11 @@
 Archive the **programming assignments** in Deep Learning Specialization at Coursera by Andrew Ng and deeplearning.ai.
 
 ## Course 1: Neural Networks and Deep Learning
-1. [C1W2P1] Python basics with Numpy (not graded)
-2. [C1W2P2] Logistic regression with a neural network mindset
-3. [C1W3P1] Planar data classification with a hidden layer
-4. [C1W4P1] Building your deep neural network: Step by step
-5. [C1W4P2] Deep neural network application: Image classification
+1. [C1W2P1] Python basics with Numpy (not graded) [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W2P1%20-%20Python%20basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb)]
+2. [C1W2P2] Logistic regression with a neural network mindset [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W2P2%20-%20Logistic%20regression%20as%20a%20neural%20network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)]
+3. [C1W3P1] Planar data classification with a hidden layer [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W3P1%20-%20Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5.ipynb)]
+4. [C1W4P1] Building your deep neural network: Step by step [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W4P1%20-%20Building%20your%20deep%20neural%20network%20-%20Step%20by%20step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)]
+5. [C1W4P2] Deep neural network application: Image classification [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C1W4P2%20-%20Deep%20neural%20network%20application%20-%20Image%20classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)]
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 1. [C2W1P1] Initialization
