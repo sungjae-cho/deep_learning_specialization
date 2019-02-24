@@ -32,6 +32,6 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 2. [C5W1P2] Dinosaur island: Character-level language modeling [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P2%20-%20Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)]
 3. [C5W1P3] Jazz improvisation with LSTM [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W1P3%20-%20Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)]
 4. [C5W2P1] Operations on word vectors: Debiasing [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W2P1%20-%20Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)]
-5. [C5W2P2] Emojify
+5. [C5W2P2] Emojify [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W2P2%20-%20Emojify/Emojify%20-%20v2.ipynb)]
 6. [C5W3P1] Neural machine translation with attention
 7. [C5W3P2] Trigger word detection
