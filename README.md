@@ -34,4 +34,4 @@ Archive the **programming assignments** in Deep Learning Specialization at Cours
 4. [C5W2P1] Operations on word vectors: Debiasing [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W2P1%20-%20Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)]
 5. [C5W2P2] Emojify [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W2P2%20-%20Emojify/Emojify%20-%20v2.ipynb)]
 6. [C5W3P1] Neural machine translation with attention [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W3P1%20-%20Neural%20Machine%20Translation%20with%20Attention/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)]
-7. [C5W3P2] Trigger word detection
+7. [C5W3P2] Trigger word detection [[notebook](https://nbviewer.jupyter.org/github/sungjae-cho/deep_learning_specialization/blob/master/C5%20-%20Sequence%20Models/C5W3P2%20-%20Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)]
